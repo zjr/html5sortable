@@ -1,0 +1,9 @@
+{
+    "name": "html5sortable",
+    "main": "jquery.sortable.js",
+    "ignore": ["index.html"],
+    "dependencies": {
+        "jquery": ">=1.11.1"
+    },
+    "private": true
+}
